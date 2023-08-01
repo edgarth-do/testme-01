@@ -1,2 +1,2 @@
 # testme-01
-This is another tyr to use github
+This is another try to use github
